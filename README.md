@@ -21,12 +21,11 @@ Bu proje, kullanıcıların kişisel gelişim hedeflerini ekleyip takip etmeleri
 - JavaScript 
 
 ## Ekran Görüntüleri
-![wtp1](https://github.com/user-attachments/assets/34ff9279-651e-4fc4-a406-ca4c390db4e0)
+### Giriş Ekranı
+![Giriş Sayfası](gorseller/wtp1.png)
 
-
-### 1. Giriş Ekranı
-
-![wtys2](https://github.com/user-attachments/assets/f80de2ff-b24f-4fa3-90bd-ba0ef7e71f3d)
+### Hedefler Listesi
+![Hedef Listesi](gorseller/wtys2.png)
 
 ### 2. Hedef Listesi
 
