@@ -24,10 +24,10 @@ Bu proje, kullanıcıların kişisel gelişim hedeflerini ekleyip takip etmeleri
 
 
 ### 1. Giriş Ekranı
-![Giriş Sayfası]![wtp1](https://github.com/user-attachments/assets/fc8eb61c-b1e3-4c8c-82d8-92e0d6b97b2f)
+[wtp1](https://github.com/user-attachments/assets/fc8eb61c-b1e3-4c8c-82d8-92e0d6b97b2f)
 
 ### 2. Hedef Listesi
-![Hedef Listesi]![wtys2](https://github.com/user-attachments/assets/d8e4c73d-65a7-495c-b4b4-fc45f31ceb23)
+[wtys2](https://github.com/user-attachments/assets/d8e4c73d-65a7-495c-b4b4-fc45f31ceb23)
 
 
 
