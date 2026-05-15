@@ -32,7 +32,7 @@ Bu proje, kullanıcıların kişisel gelişim hedeflerini ekleyip takip etmeleri
 
 
 
-## 👩‍💻 Geliştirici
+##  Geliştirici
 
 -  Büşra Ünal
 - Ders: Web Tabanlı Programlama
