@@ -34,7 +34,7 @@ Bu proje, kullanıcıların kişisel gelişim hedeflerini ekleyip takip etmeleri
 
 ## 👩‍💻 Geliştirici
 
-- Ad: [Büşra Ünal]
+-  Büşra Ünal
 - Ders: Web Tabanlı Programlama
-- Dönem: [2025 Bahar]
+- Dönem: 2025 Bahar
 
