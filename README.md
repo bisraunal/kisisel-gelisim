@@ -4,6 +4,7 @@ Bu proje, kullanıcıların kişisel gelişim hedeflerini ekleyip takip etmeleri
 
 ## Özellikler
 
+
 - Kullanıcı Kaydı (Şifre hash’li)
 - Giriş ve Çıkış (Session ile oturum yönetimi)
 -  Hedefleri Ekleme
